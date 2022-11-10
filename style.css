@@ -1,0 +1,29 @@
+#app{
+    padding: 30px;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    border: 1px double greenyellow;
+}
+
+.images{
+    display: flex;
+    justify-content: center;
+    border: 1px double blue;
+    flex-wrap: wrap;
+}
+.card{
+    border: 1px double red;
+}
+
+.orientation{
+    display: flex;
+    justify-content: center;
+    border: 1px double grey
+}
+.span_1{
+    margin-left: 8px;
+    margin-right: 8px;
+}
